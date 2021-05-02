@@ -3,7 +3,7 @@
 👉This project is a game of modified version of **_Cartan_**.
 
 ## User Guide
-Original project instructor is [constructor.pdf](./constructor.pdf).
+Original project instructor is [constructor.pdf](./constructor.pdf).  
 Please check the [demo.pdf](./demo.pdf) and [design.pdf](./design.pdf) for game 
 play instruction.
 
