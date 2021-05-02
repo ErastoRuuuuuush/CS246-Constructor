@@ -1,5 +1,6 @@
 # CS246-Constructor
 The final project for CS246 Fall 2020, bulit by Eric Liu and Trevor Chen.
+This project is a game of modified version of Cartan.
 
 ### User Guide
 Please check the [demo.pdf](./demo.pdf) and [design.pdf](./design.pdf) for game play instruction.
