@@ -14,3 +14,4 @@ Please check the [uml-final.pdf](./uml-final.pdf).
 + 2020.12 -- Project is designed by CS246 Fall 2020 instructional team and all 
 code is written by Trevor Chen and Eric Liu.
 + 2021.05.02 -- Upload to GitHub.😀
++ 2021.05.04 -- Fix bug in "builder.cc" ([[ ERIC ]]). Add graphic demo to the repo.
