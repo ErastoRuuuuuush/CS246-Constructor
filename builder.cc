@@ -509,7 +509,7 @@ bool Builder::market() {
 
 bool Builder::checkEnough(int brick, int energy, int glass, int heat, int wifi) {
     bool enough = this->numBrick >= brick && this->numEnergy >= energy && this->numGlass >= glass && this->numHeat >= heat && this->numWifi >= wifi;
-    if (!enough) std::cout << "[[ ERIC ]] NOT ENOUGH RESOURCES!";
+    // if (!enough) std::cerr << "[[ ERIC ]] NOT ENOUGH RESOURCES!";
     return enough;
 }
 
