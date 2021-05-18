@@ -3,6 +3,7 @@
 👉This project is a game of modified version of **_Catan_**.
 
 ## User Guide
+The Game Body is [HERE](./constructor.exe).🕹
 Original project's instruction is [constructor.pdf](./constructor.pdf).✨  
 Please check the [demo.pdf](./demo.pdf) and [design.pdf](./design.pdf) for game 
 play instruction.
