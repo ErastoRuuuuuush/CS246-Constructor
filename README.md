@@ -1,6 +1,6 @@
 # CS246-Constructor👾
 👉The final project for CS246 Fall 2020, bulit by Eric Liu and Trevor Chen.  
-👉This project is a game of modified version of **_Cartan_**.
+👉This project is a game of modified version of **_Catan_**.
 
 ## User Guide
 Original project's instruction is [constructor.pdf](./constructor.pdf).✨  
